@@ -1,4 +1,4 @@
-## Olá eu sou a Antonio Wally, um amante de arte e tecnologia!
+## Olá eu sou o Antonio Wally, um amante de arte e tecnologia!
 <div align="center">
   <a href="https://github.com/AntonioWally">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioWally&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="AWa11y-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AWa11y-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AWa11y-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AWa11y-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWa11y-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
