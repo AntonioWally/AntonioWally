@@ -1,4 +1,4 @@
-## Olá eu sou o Antonio Wally, um amante de arte e tecnologia!
+## Olá eu sou Antonio Wally, um amante de arte e tecnologia!
 <div align="center">
   <a href="https://github.com/AntonioWally">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AntonioWally&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
